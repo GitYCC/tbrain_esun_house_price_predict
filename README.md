@@ -2,6 +2,11 @@
 
 ![image](https://img.shields.io/badge/python-3.6-blue.svg)
 
+## Contributors
+
+* yc (github: GitYCC)
+* chenchc (github: chenchc)
+
 ## Abstract
 
 Our team "WWW-YCC-IDV-TW" won **1st Place** in the game [玉山人工智慧公開挑戰賽2019夏季賽 - 台灣不動產AI神預測](https://tbrain.trendmicro.com.tw/Competitions/Details/6).  
